@@ -588,7 +588,7 @@
         "model": {
           "format": "OpenAI",
           "name": "gpt-35-turbo",
-          "version": "0301"
+          "version": "0125"
         },
         "scaleSettings": {
           "scaleType": "Standard"
