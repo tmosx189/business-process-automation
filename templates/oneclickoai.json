@@ -571,7 +571,7 @@
           "name": "text-embedding-ada-002",
           "version": "2"
         },
-        "scaleSettings": {
+        "sku": {
           "scaleType": "Standard"
         }
       }
@@ -590,7 +590,7 @@
           "name": "gpt-35-turbo",
           "version": "0125"
         },
-        "scaleSettings": {
+        "sku": {
           "scaleType": "Standard"
         }
       }
